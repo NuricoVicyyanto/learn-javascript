@@ -1,4 +1,4 @@
-// Exercise 03 — async/await
+// Exercise 03 - async/await
 //
 // Docs: ../../../docs/01-beginner/07-async-basics/03-async-await.md
 //

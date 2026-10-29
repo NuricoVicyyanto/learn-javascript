@@ -1,4 +1,4 @@
-// Exercise 03 — Backpressure and Load Shedding
+// Exercise 03 - Backpressure and Load Shedding
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/03-backpressure.md
 //

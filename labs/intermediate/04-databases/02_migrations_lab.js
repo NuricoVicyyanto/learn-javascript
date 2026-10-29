@@ -1,4 +1,4 @@
-// Exercise 02 — Migrations
+// Exercise 02 - Migrations
 //
 // Docs: ../../../docs/02-intermediate/04-databases/02-migrations.md
 //

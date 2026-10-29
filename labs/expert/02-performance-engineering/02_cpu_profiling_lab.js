@@ -1,4 +1,4 @@
-// Exercise 02 — CPU Profiling
+// Exercise 02 - CPU Profiling
 //
 // Docs: ../../../docs/03-expert/02-performance-engineering/02-cpu-profiling.md
 //

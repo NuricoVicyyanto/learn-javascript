@@ -1,4 +1,4 @@
-// Exercise 03 — Heap Snapshots and Leaks
+// Exercise 03 - Heap Snapshots and Leaks
 //
 // Docs: ../../../docs/03-expert/02-performance-engineering/03-heap-snapshots-and-leaks.md
 //

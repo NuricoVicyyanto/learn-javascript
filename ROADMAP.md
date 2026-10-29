@@ -18,7 +18,7 @@ Total: roughly **30–40 weeks at 10 h/week**, or **15–20 weeks at 20 h/week**
 
 ---
 
-## Level 1 — Beginner
+## Level 1 - Beginner
 
 **Goal:** become comfortable with the language, the browser, Node.js, and the tooling. You should be able to read ordinary JavaScript and write small programs without help.
 
@@ -38,7 +38,7 @@ Total: roughly **30–40 weeks at 10 h/week**, or **15–20 weeks at 20 h/week**
 | 10 | [Testing basics](docs/01-beginner/10-testing-basics/README.md) | `node:test`, table tests, coverage, fakes | 8 h |
 | 11 | [Capstone: CLI application](docs/01-beginner/11-capstone-cli/README.md) | Ship a tested command-line tool | 15 h |
 
-**Exit gate — you can:**
+**Exit gate - you can:**
 
 - [ ] Write a 300–500 line JavaScript program split into ES modules.
 - [ ] Choose arrays, objects, maps, and sets deliberately.
@@ -52,7 +52,7 @@ Total: roughly **30–40 weeks at 10 h/week**, or **15–20 weeks at 20 h/week**
 
 ---
 
-## Level 2 — Intermediate
+## Level 2 - Intermediate
 
 **Goal:** build and operate real services. This is where most professional JavaScript work happens.
 
@@ -71,7 +71,7 @@ Total: roughly **30–40 weeks at 10 h/week**, or **15–20 weeks at 20 h/week**
 | 09 | [Tooling and TypeScript](docs/02-intermediate/09-tooling-and-typescript/README.md) | npm workspaces, bundlers, TypeScript, CI | 10 h |
 | 10 | [Capstone: REST API](docs/02-intermediate/10-capstone-rest-api/README.md) | Ship and operate a complete service | 30 h |
 
-**Exit gate — you can:**
+**Exit gate - you can:**
 
 - [ ] Explain the event loop and prove where a task blocks.
 - [ ] Cancel work through `AbortSignal` from HTTP handler to database query.
@@ -86,7 +86,7 @@ Total: roughly **30–40 weeks at 10 h/week**, or **15–20 weeks at 20 h/week**
 
 ---
 
-## Level 3 — Expert
+## Level 3 - Expert
 
 **Goal:** reason about the runtime, performance, reliability, and security of JavaScript systems at scale.
 
@@ -104,7 +104,7 @@ Total: roughly **30–40 weeks at 10 h/week**, or **15–20 weeks at 20 h/week**
 | 08 | [Kubernetes and production operations](docs/03-expert/08-kubernetes-and-production/README.md) | Probes, graceful shutdown, autoscaling, SLOs | 12 h |
 | 09 | [Capstone: production platform](docs/03-expert/09-capstone-platform/README.md) | Design and defend a reliable distributed system | 40 h |
 
-**Exit gate — you can:**
+**Exit gate - you can:**
 
 - [ ] Read a CPU profile or heap snapshot and explain a latency or memory problem.
 - [ ] Produce a benchmark and measurable before/after improvement.
@@ -133,12 +133,12 @@ At 10 h/week, aim for one module every one to two weeks. At 20 h/week, one modul
 
 ## Study cycle for every topic
 
-1. **Preview** — read the objectives and skim the references.
-2. **Learn** — read one authoritative source; take sparse notes.
-3. **Do** — type every example, then change it.
-4. **Recall** — close the notes and explain the concept aloud.
-5. **Apply** — solve the practice task and write a test.
-6. **Review** — revisit after 1 day, 1 week, and 1 month.
+1. **Preview** - read the objectives and skim the references.
+2. **Learn** - read one authoritative source; take sparse notes.
+3. **Do** - type every example, then change it.
+4. **Recall** - close the notes and explain the concept aloud.
+5. **Apply** - solve the practice task and write a test.
+6. **Review** - revisit after 1 day, 1 week, and 1 month.
 
 ## Gate reviews
 

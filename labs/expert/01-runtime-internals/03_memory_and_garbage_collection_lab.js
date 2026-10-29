@@ -1,4 +1,4 @@
-// Exercise 03 — Memory and Garbage Collection
+// Exercise 03 - Memory and Garbage Collection
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/03-memory-and-garbage-collection.md
 //

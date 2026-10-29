@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Global, function, and block scope. Predict the output before running.
-2. **Change** — modify one detail in Hoisting of declarations. Explain the difference.
-3. **Break** — break Strict mode and implicit globals on purpose. Capture the error and explain it.
-4. **Combine** — use Global, function, and block scope and Hoisting of declarations in one small program.
+1. **Baseline** - reproduce the smallest working example for Global, function, and block scope. Predict the output before running.
+2. **Change** - modify one detail in Hoisting of declarations. Explain the difference.
+3. **Break** - break Strict mode and implicit globals on purpose. Capture the error and explain it.
+4. **Combine** - use Global, function, and block scope and Hoisting of declarations in one small program.
 
 ```js
 // TODO: experiment space

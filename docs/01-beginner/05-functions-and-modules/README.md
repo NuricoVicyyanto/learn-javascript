@@ -56,7 +56,7 @@ node beginner/05-functions-and-modules/main.js
 node --test beginner/05-functions-and-modules/exercises.test.js
 ```
 
-## Mini project — Notification System
+## Mini project - Notification System
 
 Build a small notification service with a notifier interface and email, SMS, and console implementations. A dispatcher selects notifiers from configuration and records delivery results.
 

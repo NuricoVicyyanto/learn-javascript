@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Cluster module and shared ports. Predict the output before running.
-2. **Change** — modify one detail in Container replicas vs in-process workers. Explain the difference.
-3. **Break** — break Resource limits on purpose. Capture the error and explain it.
-4. **Combine** — use Cluster module and shared ports and Container replicas vs in-process workers in one small program.
+1. **Baseline** - reproduce the smallest working example for Cluster module and shared ports. Predict the output before running.
+2. **Change** - modify one detail in Container replicas vs in-process workers. Explain the difference.
+3. **Break** - break Resource limits on purpose. Capture the error and explain it.
+4. **Combine** - use Cluster module and shared ports and Container replicas vs in-process workers in one small program.
 
 ```js
 // TODO: experiment space

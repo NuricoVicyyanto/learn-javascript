@@ -1,4 +1,4 @@
-// Exercise 03 — npm and Packages
+// Exercise 03 - npm and Packages
 //
 // Docs: ../../../docs/01-beginner/09-node-fundamentals/03-npm-and-packages.md
 //

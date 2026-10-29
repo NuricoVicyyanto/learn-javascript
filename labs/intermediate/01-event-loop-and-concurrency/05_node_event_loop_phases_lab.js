@@ -1,4 +1,4 @@
-// Exercise 05 — Node.js Event Loop Phases
+// Exercise 05 - Node.js Event Loop Phases
 //
 // Docs: ../../../docs/02-intermediate/01-event-loop-and-concurrency/05-node-event-loop-phases.md
 //

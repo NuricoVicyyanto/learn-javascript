@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `AbortController` and `AbortSignal.timeout`. Predict the output before running.
-2. **Change** — modify one detail in Retryable vs permanent errors. Explain the difference.
-3. **Break** — break Retry budgets and maximum attempts on purpose. Capture the error and explain it.
-4. **Combine** — use `AbortController` and `AbortSignal.timeout` and Retryable vs permanent errors in one small program.
+1. **Baseline** - reproduce the smallest working example for `AbortController` and `AbortSignal.timeout`. Predict the output before running.
+2. **Change** - modify one detail in Retryable vs permanent errors. Explain the difference.
+3. **Break** - break Retry budgets and maximum attempts on purpose. Capture the error and explain it.
+4. **Combine** - use `AbortController` and `AbortSignal.timeout` and Retryable vs permanent errors in one small program.
 
 ```js
 // TODO: experiment space

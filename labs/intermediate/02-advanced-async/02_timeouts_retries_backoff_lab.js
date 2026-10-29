@@ -1,4 +1,4 @@
-// Exercise 02 — Timeouts, Retries, and Backoff
+// Exercise 02 - Timeouts, Retries, and Backoff
 //
 // Docs: ../../../docs/02-intermediate/02-advanced-async/02-timeouts-retries-backoff.md
 //

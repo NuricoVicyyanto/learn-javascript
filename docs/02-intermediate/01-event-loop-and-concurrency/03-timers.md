@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `setTimeout`, `setInterval`, and `setImmediate`. Predict the output before running.
-2. **Change** — modify one detail in Timer drift and minimum delays. Explain the difference.
-3. **Break** — break Testing time-dependent code on purpose. Capture the error and explain it.
-4. **Combine** — use `setTimeout`, `setInterval`, and `setImmediate` and Timer drift and minimum delays in one small program.
+1. **Baseline** - reproduce the smallest working example for `setTimeout`, `setInterval`, and `setImmediate`. Predict the output before running.
+2. **Change** - modify one detail in Timer drift and minimum delays. Explain the difference.
+3. **Break** - break Testing time-dependent code on purpose. Capture the error and explain it.
+4. **Combine** - use `setTimeout`, `setInterval`, and `setImmediate` and Timer drift and minimum delays in one small program.
 
 ```js
 // TODO: experiment space

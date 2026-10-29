@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Creating a server and handling requests. Predict the output before running.
-2. **Change** — modify one detail in Request methods, URL, headers, and body. Explain the difference.
-3. **Break** — break Graceful shutdown on purpose. Capture the error and explain it.
-4. **Combine** — use Creating a server and handling requests and Request methods, URL, headers, and body in one small program.
+1. **Baseline** - reproduce the smallest working example for Creating a server and handling requests. Predict the output before running.
+2. **Change** - modify one detail in Request methods, URL, headers, and body. Explain the difference.
+3. **Break** - break Graceful shutdown on purpose. Capture the error and explain it.
+4. **Combine** - use Creating a server and handling requests and Request methods, URL, headers, and body in one small program.
 
 ```js
 // TODO: experiment space

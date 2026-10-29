@@ -1,4 +1,4 @@
-# Lab 04 — Data Structures
+# Lab 04 - Data Structures
 
 > **Level:** Beginner · **Module guide:** [04 Data Structures](../../../docs/01-beginner/04-data-structures/README.md)
 

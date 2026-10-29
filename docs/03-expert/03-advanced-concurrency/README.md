@@ -58,7 +58,7 @@ node expert/03-advanced-concurrency/main.js
 node --test expert/03-advanced-concurrency/exercises.test.js
 ```
 
-## Mini project — Bounded Job Runner
+## Mini project - Bounded Job Runner
 
 Build a reusable job runner with a fixed worker budget, per-job timeouts, retry policy, graceful shutdown, and metrics. It should survive one slow job without blocking the rest.
 

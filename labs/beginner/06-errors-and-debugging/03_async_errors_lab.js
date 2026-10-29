@@ -1,4 +1,4 @@
-// Exercise 03 — Async Errors
+// Exercise 03 - Async Errors
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-debugging/03-async-errors.md
 //

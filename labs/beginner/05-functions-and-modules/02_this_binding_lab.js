@@ -1,4 +1,4 @@
-// Exercise 02 — this Binding
+// Exercise 02 - this Binding
 //
 // Docs: ../../../docs/01-beginner/05-functions-and-modules/02-this-binding.md
 //

@@ -1,4 +1,4 @@
-// Exercise 02 — Streams
+// Exercise 02 - Streams
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/02-streams.md
 //

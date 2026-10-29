@@ -1,4 +1,4 @@
-# Lab 08 — DOM and Browser APIs
+# Lab 08 - DOM and Browser APIs
 
 > **Level:** Beginner · **Module guide:** [08 DOM and Browser APIs](../../../docs/01-beginner/08-dom-and-browser-apis/README.md)
 

@@ -1,4 +1,4 @@
-// Exercise 04 — Failure Injection
+// Exercise 04 - Failure Injection
 //
 // Docs: ../../../docs/02-intermediate/06-testing-advanced/04-failure-injection.md
 //

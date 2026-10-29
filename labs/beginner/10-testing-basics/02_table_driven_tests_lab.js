@@ -1,4 +1,4 @@
-// Exercise 02 — Table-Driven Tests
+// Exercise 02 - Table-Driven Tests
 //
 // Docs: ../../../docs/01-beginner/10-testing-basics/02-table-driven-tests.md
 //

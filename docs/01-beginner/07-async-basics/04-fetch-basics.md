@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Requests, responses, headers, and bodies. Predict the output before running.
-2. **Change** — modify one detail in Checking `response.ok` and status. Explain the difference.
-3. **Break** — break CORS in the browser on purpose. Capture the error and explain it.
-4. **Combine** — use Requests, responses, headers, and bodies and Checking `response.ok` and status in one small program.
+1. **Baseline** - reproduce the smallest working example for Requests, responses, headers, and bodies. Predict the output before running.
+2. **Change** - modify one detail in Checking `response.ok` and status. Explain the difference.
+3. **Break** - break CORS in the browser on purpose. Capture the error and explain it.
+4. **Combine** - use Requests, responses, headers, and bodies and Checking `response.ok` and status in one small program.
 
 ```js
 // TODO: experiment space

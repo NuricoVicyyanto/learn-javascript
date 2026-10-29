@@ -56,7 +56,7 @@ node intermediate/03-http-clients-and-servers/main.js
 node --test intermediate/03-http-clients-and-servers/exercises.test.js
 ```
 
-## Mini project — URL Shortener API
+## Mini project - URL Shortener API
 
 Build a URL shortener with create, redirect, stats, and delete endpoints. Include validation, collision handling, request limits, and a client package used by integration tests.
 

@@ -1,4 +1,4 @@
-// Exercise 01 — Filesystem and Paths
+// Exercise 01 - Filesystem and Paths
 //
 // Docs: ../../../docs/01-beginner/09-node-fundamentals/01-filesystem-and-paths.md
 //

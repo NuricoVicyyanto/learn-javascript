@@ -1,4 +1,4 @@
-// Exercise 01 — Structured Logging
+// Exercise 01 - Structured Logging
 //
 // Docs: ../../../docs/02-intermediate/07-observability/01-structured-logging.md
 //

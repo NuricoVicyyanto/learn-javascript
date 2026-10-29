@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Parsing, bytecode, and Ignition. Predict the output before running.
-2. **Change** — modify one detail in Sparkplug and Maglev baseline tiers. Explain the difference.
-3. **Break** — break Warm-up and steady-state performance on purpose. Capture the error and explain it.
-4. **Combine** — use Parsing, bytecode, and Ignition and Sparkplug and Maglev baseline tiers in one small program.
+1. **Baseline** - reproduce the smallest working example for Parsing, bytecode, and Ignition. Predict the output before running.
+2. **Change** - modify one detail in Sparkplug and Maglev baseline tiers. Explain the difference.
+3. **Break** - break Warm-up and steady-state performance on purpose. Capture the error and explain it.
+4. **Combine** - use Parsing, bytecode, and Ignition and Sparkplug and Maglev baseline tiers in one small program.
 
 ```js
 // TODO: experiment space

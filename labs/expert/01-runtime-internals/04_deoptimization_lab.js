@@ -1,4 +1,4 @@
-// Exercise 04 — Deoptimization
+// Exercise 04 - Deoptimization
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/04-deoptimization.md
 //

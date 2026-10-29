@@ -1,4 +1,4 @@
-# Lab 08 — Kubernetes and Production Operations
+# Lab 08 - Kubernetes and Production Operations
 
 > **Level:** Expert · **Module guide:** [08 Kubernetes and Production Operations](../../../docs/03-expert/08-kubernetes-and-production/README.md)
 

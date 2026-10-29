@@ -1,4 +1,4 @@
-// Exercise 03 — Bounded Concurrency
+// Exercise 03 - Bounded Concurrency
 //
 // Docs: ../../../docs/02-intermediate/02-advanced-async/03-bounded-concurrency.md
 //

@@ -56,7 +56,7 @@ node beginner/06-errors-and-debugging/main.js
 node --test beginner/06-errors-and-debugging/exercises.test.js
 ```
 
-## Mini project — Resilient CSV Importer
+## Mini project - Resilient CSV Importer
 
 Build a CSV importer that validates rows, reports all row-level errors with line numbers, and continues processing valid rows. Distinguish parse, validation, and I/O errors.
 

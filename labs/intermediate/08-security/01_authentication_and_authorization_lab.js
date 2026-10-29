@@ -1,4 +1,4 @@
-// Exercise 01 — Authentication and Authorization
+// Exercise 01 - Authentication and Authorization
 //
 // Docs: ../../../docs/02-intermediate/08-security/01-authentication-and-authorization.md
 //

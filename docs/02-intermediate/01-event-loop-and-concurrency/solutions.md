@@ -1,4 +1,4 @@
-# Solutions — Event Loop and Concurrency
+# Solutions - Event Loop and Concurrency
 
 > **Level:** Intermediate · Write your own attempt first. A copied solution is not evidence of learning.
 

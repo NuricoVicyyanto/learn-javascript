@@ -56,7 +56,7 @@ node beginner/10-testing-basics/main.js
 node --test beginner/10-testing-basics/exercises.test.js
 ```
 
-## Mini project — Test Suite for the Task Store
+## Mini project - Test Suite for the Task Store
 
 Take the JSON task store from an earlier module and give it a real test suite: unit tests, filesystem tests with temporary directories, and coverage. Document one intentional gap.
 

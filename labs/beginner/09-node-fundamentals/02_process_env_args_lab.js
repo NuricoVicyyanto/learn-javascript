@@ -1,4 +1,4 @@
-// Exercise 02 — Process, Environment, and Args
+// Exercise 02 - Process, Environment, and Args
 //
 // Docs: ../../../docs/01-beginner/09-node-fundamentals/02-process-env-args.md
 //

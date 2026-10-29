@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Cache-aside and read-through. Predict the output before running.
-2. **Change** — modify one detail in TTL, invalidation, and versioned keys. Explain the difference.
-3. **Break** — break Consistency and failure behavior on purpose. Capture the error and explain it.
-4. **Combine** — use Cache-aside and read-through and TTL, invalidation, and versioned keys in one small program.
+1. **Baseline** - reproduce the smallest working example for Cache-aside and read-through. Predict the output before running.
+2. **Change** - modify one detail in TTL, invalidation, and versioned keys. Explain the difference.
+3. **Break** - break Consistency and failure behavior on purpose. Capture the error and explain it.
+4. **Combine** - use Cache-aside and read-through and TTL, invalidation, and versioned keys in one small program.
 
 ```js
 // TODO: experiment space

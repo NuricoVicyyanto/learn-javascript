@@ -1,4 +1,4 @@
-// Exercise 01 — node:http Basics
+// Exercise 01 - node:http Basics
 //
 // Docs: ../../../docs/02-intermediate/03-http-clients-and-servers/01-node-http-basics.md
 //

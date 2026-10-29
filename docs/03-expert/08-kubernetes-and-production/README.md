@@ -55,7 +55,7 @@ node expert/08-kubernetes-and-production/main.js
 node --test expert/08-kubernetes-and-production/exercises.test.js
 ```
 
-## Mini project — Production Deployment
+## Mini project - Production Deployment
 
 Deploy a Node.js service to a local Kubernetes cluster with manifests, probes, autoscaling, graceful shutdown, dashboards, and SLO-based alerts. Run a rollout under load without dropping requests.
 

@@ -1,4 +1,4 @@
-// Exercise 03 — Configuration
+// Exercise 03 - Configuration
 //
 // Docs: ../../../docs/02-intermediate/05-project-architecture/03-configuration.md
 //

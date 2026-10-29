@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Worker-pool pattern with promises. Predict the output before running.
-2. **Change** — modify one detail in A simple semaphore. Explain the difference.
-3. **Break** — break Metrics for queue depth and failures on purpose. Capture the error and explain it.
-4. **Combine** — use Worker-pool pattern with promises and A simple semaphore in one small program.
+1. **Baseline** - reproduce the smallest working example for Worker-pool pattern with promises. Predict the output before running.
+2. **Change** - modify one detail in A simple semaphore. Explain the difference.
+3. **Break** - break Metrics for queue depth and failures on purpose. Capture the error and explain it.
+4. **Combine** - use Worker-pool pattern with promises and A simple semaphore in one small program.
 
 ```js
 // TODO: experiment space

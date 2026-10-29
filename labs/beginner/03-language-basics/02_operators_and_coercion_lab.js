@@ -1,4 +1,4 @@
-// Exercise 02 — Operators and Coercion
+// Exercise 02 - Operators and Coercion
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/02-operators-and-coercion.md
 //

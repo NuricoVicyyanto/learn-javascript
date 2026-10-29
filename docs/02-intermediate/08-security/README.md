@@ -56,7 +56,7 @@ node intermediate/08-security/main.js
 node --test intermediate/08-security/exercises.test.js
 ```
 
-## Mini project — Security Hardening Review
+## Mini project - Security Hardening Review
 
 Take the intermediate capstone API and perform a security review: threat model, authn/authz tests, input limits, secret handling, TLS, and dependency scanning. Fix the top three findings.
 

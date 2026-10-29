@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Event stream format and `text/event-stream`. Predict the output before running.
-2. **Change** — modify one detail in Reconnection and `Last-Event-ID`. Explain the difference.
-3. **Break** — break When SSE is better than WebSockets on purpose. Capture the error and explain it.
-4. **Combine** — use Event stream format and `text/event-stream` and Reconnection and `Last-Event-ID` in one small program.
+1. **Baseline** - reproduce the smallest working example for Event stream format and `text/event-stream`. Predict the output before running.
+2. **Change** - modify one detail in Reconnection and `Last-Event-ID`. Explain the difference.
+3. **Break** - break When SSE is better than WebSockets on purpose. Capture the error and explain it.
+4. **Combine** - use Event stream format and `text/event-stream` and Reconnection and `Last-Event-ID` in one small program.
 
 ```js
 // TODO: experiment space

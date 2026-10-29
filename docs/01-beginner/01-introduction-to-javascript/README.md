@@ -134,12 +134,12 @@ Prefer the platform and small, well-maintained packages over a large framework w
 
 ## Real projects built with JavaScript
 
-- **Visual Studio Code** — Electron desktop app.
-- **Netflix** — browser and server rendering.
-- **PayPal** — Node.js services.
-- **LinkedIn** — Node.js backend.
-- **Discord** — desktop and web clients.
-- **Upwork** — Node.js and browser apps.
+- **Visual Studio Code** - Electron desktop app.
+- **Netflix** - browser and server rendering.
+- **PayPal** - Node.js services.
+- **LinkedIn** - Node.js backend.
+- **Discord** - desktop and web clients.
+- **Upwork** - Node.js and browser apps.
 - Countless SaaS products, dashboards, and internal tools.
 
 ---

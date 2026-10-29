@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Disposable databases and testcontainers. Predict the output before running.
-2. **Change** — modify one detail in Schema setup and cleanup. Explain the difference.
-3. **Break** — break Running integration tests in CI on purpose. Capture the error and explain it.
-4. **Combine** — use Disposable databases and testcontainers and Schema setup and cleanup in one small program.
+1. **Baseline** - reproduce the smallest working example for Disposable databases and testcontainers. Predict the output before running.
+2. **Change** - modify one detail in Schema setup and cleanup. Explain the difference.
+3. **Break** - break Running integration tests in CI on purpose. Capture the error and explain it.
+4. **Combine** - use Disposable databases and testcontainers and Schema setup and cleanup in one small program.
 
 ```js
 // TODO: experiment space

@@ -1,4 +1,4 @@
-// Exercise 01 — Modules and Layers
+// Exercise 01 - Modules and Layers
 //
 // Docs: ../../../docs/02-intermediate/05-project-architecture/01-modules-and-layers.md
 //

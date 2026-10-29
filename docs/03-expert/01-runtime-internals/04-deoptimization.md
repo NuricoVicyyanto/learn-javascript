@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Speculative optimization. Predict the output before running.
-2. **Change** — modify one detail in Type feedback and assumptions. Explain the difference.
-3. **Break** — break Stabilizing hot paths on purpose. Capture the error and explain it.
-4. **Combine** — use Speculative optimization and Type feedback and assumptions in one small program.
+1. **Baseline** - reproduce the smallest working example for Speculative optimization. Predict the output before running.
+2. **Change** - modify one detail in Type feedback and assumptions. Explain the difference.
+3. **Break** - break Stabilizing hot paths on purpose. Capture the error and explain it.
+4. **Combine** - use Speculative optimization and Type feedback and assumptions in one small program.
 
 ```js
 // TODO: experiment space

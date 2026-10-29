@@ -1,4 +1,4 @@
-# Lab 01 — Introduction to JavaScript
+# Lab 01 - Introduction to JavaScript
 
 > **Level:** Beginner · **Module guide:** [01 Introduction to JavaScript](../../../docs/01-beginner/01-introduction-to-javascript/README.md)
 

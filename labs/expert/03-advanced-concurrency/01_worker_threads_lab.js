@@ -1,4 +1,4 @@
-// Exercise 01 — Worker Threads
+// Exercise 01 - Worker Threads
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/01-worker-threads.md
 //

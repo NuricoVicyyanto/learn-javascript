@@ -1,4 +1,4 @@
-// Exercise 01 — V8 Pipeline and JIT
+// Exercise 01 - V8 Pipeline and JIT
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/01-v8-pipeline-and-jit.md
 //

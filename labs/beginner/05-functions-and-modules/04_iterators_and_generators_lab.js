@@ -1,4 +1,4 @@
-// Exercise 04 — Iterators and Generators
+// Exercise 04 - Iterators and Generators
 //
 // Docs: ../../../docs/01-beginner/05-functions-and-modules/04-iterators-and-generators.md
 //

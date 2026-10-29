@@ -1,4 +1,4 @@
-# Lab 03 — HTTP Clients and Servers
+# Lab 03 - HTTP Clients and Servers
 
 > **Level:** Intermediate · **Module guide:** [03 HTTP Clients and Servers](../../../docs/02-intermediate/03-http-clients-and-servers/README.md)
 

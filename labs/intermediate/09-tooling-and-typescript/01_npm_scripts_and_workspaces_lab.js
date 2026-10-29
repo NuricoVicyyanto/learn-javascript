@@ -1,4 +1,4 @@
-// Exercise 01 — npm Scripts and Workspaces
+// Exercise 01 - npm Scripts and Workspaces
 //
 // Docs: ../../../docs/02-intermediate/09-tooling-and-typescript/01-npm-scripts-and-workspaces.md
 //

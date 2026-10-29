@@ -1,4 +1,4 @@
-// Exercise 03 — Observability and SLOs
+// Exercise 03 - Observability and SLOs
 //
 // Docs: ../../../docs/03-expert/08-kubernetes-and-production/03-observability-and-slos.md
 //

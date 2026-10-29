@@ -1,4 +1,4 @@
-// Exercise 02 — Dependency Injection
+// Exercise 02 - Dependency Injection
 //
 // Docs: ../../../docs/02-intermediate/05-project-architecture/02-dependency-injection.md
 //

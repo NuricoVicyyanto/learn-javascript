@@ -1,4 +1,4 @@
-// Exercise 02 — Objects
+// Exercise 02 - Objects
 //
 // Docs: ../../../docs/01-beginner/04-data-structures/02-objects.md
 //

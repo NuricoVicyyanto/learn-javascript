@@ -1,4 +1,4 @@
-// Exercise 02 — Error Types and Causes
+// Exercise 02 - Error Types and Causes
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-debugging/02-error-types.md
 //

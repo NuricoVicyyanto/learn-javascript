@@ -1,4 +1,4 @@
-// Exercise 04 — Optimization Patterns
+// Exercise 04 - Optimization Patterns
 //
 // Docs: ../../../docs/03-expert/02-performance-engineering/04-optimization-patterns.md
 //

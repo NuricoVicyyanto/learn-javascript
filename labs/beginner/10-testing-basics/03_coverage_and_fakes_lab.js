@@ -1,4 +1,4 @@
-// Exercise 03 — Coverage and Fakes
+// Exercise 03 - Coverage and Fakes
 //
 // Docs: ../../../docs/01-beginner/10-testing-basics/03-coverage-and-fakes.md
 //

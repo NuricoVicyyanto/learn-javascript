@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `fetch` in Node.js vs the browser. Predict the output before running.
-2. **Change** — modify one detail in Timeouts and `AbortController`. Explain the difference.
-3. **Break** — break Testing with a local server on purpose. Capture the error and explain it.
-4. **Combine** — use `fetch` in Node.js vs the browser and Timeouts and `AbortController` in one small program.
+1. **Baseline** - reproduce the smallest working example for `fetch` in Node.js vs the browser. Predict the output before running.
+2. **Change** - modify one detail in Timeouts and `AbortController`. Explain the difference.
+3. **Break** - break Testing with a local server on purpose. Capture the error and explain it.
+4. **Combine** - use `fetch` in Node.js vs the browser and Timeouts and `AbortController` in one small program.
 
 ```js
 // TODO: experiment space

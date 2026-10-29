@@ -56,7 +56,7 @@ node intermediate/05-project-architecture/main.js
 node --test intermediate/05-project-architecture/exercises.test.js
 ```
 
-## Mini project — Service Skeleton
+## Mini project - Service Skeleton
 
 Create a reusable service skeleton with explicit wiring, validated configuration, structured logging, health endpoints, and clean shutdown. Small enough to read in one sitting.
 

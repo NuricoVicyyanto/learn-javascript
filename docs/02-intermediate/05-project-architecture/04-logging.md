@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for JSON logs and log levels. Predict the output before running.
-2. **Change** — modify one detail in Request IDs and child loggers. Explain the difference.
-3. **Break** — break Library choices such as pino on purpose. Capture the error and explain it.
-4. **Combine** — use JSON logs and log levels and Request IDs and child loggers in one small program.
+1. **Baseline** - reproduce the smallest working example for JSON logs and log levels. Predict the output before running.
+2. **Change** - modify one detail in Request IDs and child loggers. Explain the difference.
+3. **Break** - break Library choices such as pino on purpose. Capture the error and explain it.
+4. **Combine** - use JSON logs and log levels and Request IDs and child loggers in one small program.
 
 ```js
 // TODO: experiment space

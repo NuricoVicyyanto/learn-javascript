@@ -1,4 +1,4 @@
-// Exercise 01 — SQL and PostgreSQL
+// Exercise 01 - SQL and PostgreSQL
 //
 // Docs: ../../../docs/02-intermediate/04-databases/01-sql-and-pg.md
 //

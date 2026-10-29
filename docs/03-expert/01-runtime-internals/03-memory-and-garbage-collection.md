@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Young generation and scavenges. Predict the output before running.
-2. **Change** — modify one detail in Old generation and major GC. Explain the difference.
-3. **Break** — break Retention and memory pressure on purpose. Capture the error and explain it.
-4. **Combine** — use Young generation and scavenges and Old generation and major GC in one small program.
+1. **Baseline** - reproduce the smallest working example for Young generation and scavenges. Predict the output before running.
+2. **Change** - modify one detail in Old generation and major GC. Explain the difference.
+3. **Break** - break Retention and memory pressure on purpose. Capture the error and explain it.
+4. **Combine** - use Young generation and scavenges and Old generation and major GC in one small program.
 
 ```js
 // TODO: experiment space

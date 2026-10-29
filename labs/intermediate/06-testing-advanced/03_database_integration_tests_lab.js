@@ -1,4 +1,4 @@
-// Exercise 03 — Database Integration Tests
+// Exercise 03 - Database Integration Tests
 //
 // Docs: ../../../docs/02-intermediate/06-testing-advanced/03-database-integration-tests.md
 //

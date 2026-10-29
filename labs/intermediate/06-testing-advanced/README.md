@@ -1,4 +1,4 @@
-# Lab 06 — Advanced Testing
+# Lab 06 - Advanced Testing
 
 > **Level:** Intermediate · **Module guide:** [06 Advanced Testing](../../../docs/02-intermediate/06-testing-advanced/README.md)
 

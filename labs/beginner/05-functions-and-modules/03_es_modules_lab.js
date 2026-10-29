@@ -1,4 +1,4 @@
-// Exercise 03 — ES Modules
+// Exercise 03 - ES Modules
 //
 // Docs: ../../../docs/01-beginner/05-functions-and-modules/03-es-modules.md
 //

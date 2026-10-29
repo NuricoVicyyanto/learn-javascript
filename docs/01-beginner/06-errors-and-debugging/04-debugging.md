@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for DevTools breakpoints and the call stack. Predict the output before running.
-2. **Change** — modify one detail in `console` methods that do more than `log`. Explain the difference.
-3. **Break** — break Minimal reproductions and binary search on purpose. Capture the error and explain it.
-4. **Combine** — use DevTools breakpoints and the call stack and `console` methods that do more than `log` in one small program.
+1. **Baseline** - reproduce the smallest working example for DevTools breakpoints and the call stack. Predict the output before running.
+2. **Change** - modify one detail in `console` methods that do more than `log`. Explain the difference.
+3. **Break** - break Minimal reproductions and binary search on purpose. Capture the error and explain it.
+4. **Combine** - use DevTools breakpoints and the call stack and `console` methods that do more than `log` in one small program.
 
 ```js
 // TODO: experiment space

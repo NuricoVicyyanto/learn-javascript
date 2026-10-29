@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Measurement harness and iterations. Predict the output before running.
-2. **Change** — modify one detail in Warm-up and steady state. Explain the difference.
-3. **Break** — break Benchmarking I/O vs CPU on purpose. Capture the error and explain it.
-4. **Combine** — use Measurement harness and iterations and Warm-up and steady state in one small program.
+1. **Baseline** - reproduce the smallest working example for Measurement harness and iterations. Predict the output before running.
+2. **Change** - modify one detail in Warm-up and steady state. Explain the difference.
+3. **Break** - break Benchmarking I/O vs CPU on purpose. Capture the error and explain it.
+4. **Combine** - use Measurement harness and iterations and Warm-up and steady state in one small program.
 
 ```js
 // TODO: experiment space

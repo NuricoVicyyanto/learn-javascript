@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `node --cpu-prof` and `.cpuprofile` files. Predict the output before running.
-2. **Change** — modify one detail in Chrome DevTools performance panel. Explain the difference.
-3. **Break** — break Profiling in production safely on purpose. Capture the error and explain it.
-4. **Combine** — use `node --cpu-prof` and `.cpuprofile` files and Chrome DevTools performance panel in one small program.
+1. **Baseline** - reproduce the smallest working example for `node --cpu-prof` and `.cpuprofile` files. Predict the output before running.
+2. **Change** - modify one detail in Chrome DevTools performance panel. Explain the difference.
+3. **Break** - break Profiling in production safely on purpose. Capture the error and explain it.
+4. **Combine** - use `node --cpu-prof` and `.cpuprofile` files and Chrome DevTools performance panel in one small program.
 
 ```js
 // TODO: experiment space

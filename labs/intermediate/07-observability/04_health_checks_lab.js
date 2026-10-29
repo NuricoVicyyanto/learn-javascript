@@ -1,4 +1,4 @@
-// Exercise 04 — Health Checks
+// Exercise 04 - Health Checks
 //
 // Docs: ../../../docs/02-intermediate/07-observability/04-health-checks.md
 //

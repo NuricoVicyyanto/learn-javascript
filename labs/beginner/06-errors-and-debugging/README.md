@@ -1,4 +1,4 @@
-# Lab 06 — Errors and Debugging
+# Lab 06 - Errors and Debugging
 
 > **Level:** Beginner · **Module guide:** [06 Errors and Debugging](../../../docs/01-beginner/06-errors-and-debugging/README.md)
 

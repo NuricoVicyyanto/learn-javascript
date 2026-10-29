@@ -15,31 +15,31 @@ import { exercise05 } from "./05_scope_and_hoisting_lab.js";
 //
 // A skipped test is a reminder, not a passing grade.
 
-test("01 — Variables and Types", { skip: "TODO: implement exercise01" }, async () => {
+test("01 - Variables and Types", { skip: "TODO: implement exercise01" }, async () => {
   await exercise01();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("02 — Operators and Coercion", { skip: "TODO: implement exercise02" }, async () => {
+test("02 - Operators and Coercion", { skip: "TODO: implement exercise02" }, async () => {
   await exercise02();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("03 — Control Flow", { skip: "TODO: implement exercise03" }, async () => {
+test("03 - Control Flow", { skip: "TODO: implement exercise03" }, async () => {
   await exercise03();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("04 — Functions", { skip: "TODO: implement exercise04" }, async () => {
+test("04 - Functions", { skip: "TODO: implement exercise04" }, async () => {
   await exercise04();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("05 — Scope and Hoisting", { skip: "TODO: implement exercise05" }, async () => {
+test("05 - Scope and Hoisting", { skip: "TODO: implement exercise05" }, async () => {
   await exercise05();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);

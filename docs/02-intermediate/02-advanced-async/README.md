@@ -56,7 +56,7 @@ node intermediate/02-advanced-async/main.js
 node --test intermediate/02-advanced-async/exercises.test.js
 ```
 
-## Mini project — Deadline-Aware Aggregator
+## Mini project - Deadline-Aware Aggregator
 
 Build a service that aggregates data from three upstreams. Each upstream has its own timeout, the request has an overall budget, and slow upstreams degrade gracefully.
 

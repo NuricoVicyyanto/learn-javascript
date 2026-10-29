@@ -1,4 +1,4 @@
-// Exercise 03 — Message Brokers
+// Exercise 03 - Message Brokers
 //
 // Docs: ../../../docs/03-expert/05-real-time-and-messaging/03-message-brokers.md
 //

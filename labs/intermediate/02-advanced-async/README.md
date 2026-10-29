@@ -1,4 +1,4 @@
-# Lab 02 — Advanced Async Patterns
+# Lab 02 - Advanced Async Patterns
 
 > **Level:** Intermediate · **Module guide:** [02 Advanced Async Patterns](../../../docs/02-intermediate/02-advanced-async/README.md)
 

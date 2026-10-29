@@ -1,4 +1,4 @@
-// Exercise 04 — fetch Basics
+// Exercise 04 - fetch Basics
 //
 // Docs: ../../../docs/01-beginner/07-async-basics/04-fetch-basics.md
 //

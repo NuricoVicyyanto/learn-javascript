@@ -1,4 +1,4 @@
-# Lab 09 — Tooling and TypeScript
+# Lab 09 - Tooling and TypeScript
 
 > **Level:** Intermediate · **Module guide:** [09 Tooling and TypeScript](../../../docs/02-intermediate/09-tooling-and-typescript/README.md)
 

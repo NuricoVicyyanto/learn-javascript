@@ -1,4 +1,4 @@
-# Lab 05 — Functions and Modules
+# Lab 05 - Functions and Modules
 
 > **Level:** Beginner · **Module guide:** [05 Functions and Modules](../../../docs/01-beginner/05-functions-and-modules/README.md)
 

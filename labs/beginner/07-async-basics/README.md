@@ -1,4 +1,4 @@
-# Lab 07 — Async Basics
+# Lab 07 - Async Basics
 
 > **Level:** Beginner · **Module guide:** [07 Async Basics](../../../docs/01-beginner/07-async-basics/README.md)
 

@@ -56,7 +56,7 @@ node beginner/07-async-basics/main.js
 node --test beginner/07-async-basics/exercises.test.js
 ```
 
-## Mini project — Async Weather CLI
+## Mini project - Async Weather CLI
 
 Build a CLI that fetches weather data for several cities concurrently, handles timeouts and HTTP errors, and prints a deterministic summary. Use a fake API in tests.
 

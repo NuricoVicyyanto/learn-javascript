@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Connections and pools with `pg`. Predict the output before running.
-2. **Change** — modify one detail in Parameterized queries and placeholders. Explain the difference.
-3. **Break** — break Connection pool sizing on purpose. Capture the error and explain it.
-4. **Combine** — use Connections and pools with `pg` and Parameterized queries and placeholders in one small program.
+1. **Baseline** - reproduce the smallest working example for Connections and pools with `pg`. Predict the output before running.
+2. **Change** - modify one detail in Parameterized queries and placeholders. Explain the difference.
+3. **Break** - break Connection pool sizing on purpose. Capture the error and explain it.
+4. **Combine** - use Connections and pools with `pg` and Parameterized queries and placeholders in one small program.
 
 ```js
 // TODO: experiment space

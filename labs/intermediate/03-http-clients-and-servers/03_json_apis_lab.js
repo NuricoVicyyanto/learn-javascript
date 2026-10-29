@@ -1,4 +1,4 @@
-// Exercise 03 — JSON APIs
+// Exercise 03 - JSON APIs
 //
 // Docs: ../../../docs/02-intermediate/03-http-clients-and-servers/03-json-apis.md
 //

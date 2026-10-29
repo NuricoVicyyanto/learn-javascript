@@ -1,4 +1,4 @@
-// Exercise 04 — Process Scaling
+// Exercise 04 - Process Scaling
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/04-process-scaling.md
 //

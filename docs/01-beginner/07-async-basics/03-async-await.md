@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `async` functions and returned promises. Predict the output before running.
-2. **Change** — modify one detail in `await` and synchronous-looking flow. Explain the difference.
-3. **Break** — break Top-level await in modules on purpose. Capture the error and explain it.
-4. **Combine** — use `async` functions and returned promises and `await` and synchronous-looking flow in one small program.
+1. **Baseline** - reproduce the smallest working example for `async` functions and returned promises. Predict the output before running.
+2. **Change** - modify one detail in `await` and synchronous-looking flow. Explain the difference.
+3. **Break** - break Top-level await in modules on purpose. Capture the error and explain it.
+4. **Combine** - use `async` functions and returned promises and `await` and synchronous-looking flow in one small program.
 
 ```js
 // TODO: experiment space

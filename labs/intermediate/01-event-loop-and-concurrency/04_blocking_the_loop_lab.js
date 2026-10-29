@@ -1,4 +1,4 @@
-// Exercise 04 — Blocking the Event Loop
+// Exercise 04 - Blocking the Event Loop
 //
 // Docs: ../../../docs/02-intermediate/01-event-loop-and-concurrency/04-blocking-the-loop.md
 //

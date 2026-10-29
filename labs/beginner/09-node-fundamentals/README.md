@@ -1,4 +1,4 @@
-# Lab 09 — Node.js Fundamentals
+# Lab 09 - Node.js Fundamentals
 
 > **Level:** Beginner · **Module guide:** [09 Node.js Fundamentals](../../../docs/01-beginner/09-node-fundamentals/README.md)
 

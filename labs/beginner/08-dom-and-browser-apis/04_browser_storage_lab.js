@@ -1,4 +1,4 @@
-// Exercise 04 — Browser Storage
+// Exercise 04 - Browser Storage
 //
 // Docs: ../../../docs/01-beginner/08-dom-and-browser-apis/04-browser-storage.md
 //

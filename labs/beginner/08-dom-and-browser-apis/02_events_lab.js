@@ -1,4 +1,4 @@
-// Exercise 02 — Events
+// Exercise 02 - Events
 //
 // Docs: ../../../docs/01-beginner/08-dom-and-browser-apis/02-events.md
 //

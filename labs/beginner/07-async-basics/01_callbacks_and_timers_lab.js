@@ -1,4 +1,4 @@
-// Exercise 01 — Callbacks and Timers
+// Exercise 01 - Callbacks and Timers
 //
 // Docs: ../../../docs/01-beginner/07-async-basics/01-callbacks-and-timers.md
 //

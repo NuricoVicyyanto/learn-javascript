@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `node --experimental-test-coverage`. Predict the output before running.
-2. **Change** — modify one detail in Reading coverage reports. Explain the difference.
-3. **Break** — break What coverage cannot prove on purpose. Capture the error and explain it.
-4. **Combine** — use `node --experimental-test-coverage` and Reading coverage reports in one small program.
+1. **Baseline** - reproduce the smallest working example for `node --experimental-test-coverage`. Predict the output before running.
+2. **Change** - modify one detail in Reading coverage reports. Explain the difference.
+3. **Break** - break What coverage cannot prove on purpose. Capture the error and explain it.
+4. **Combine** - use `node --experimental-test-coverage` and Reading coverage reports in one small program.
 
 ```js
 // TODO: experiment space

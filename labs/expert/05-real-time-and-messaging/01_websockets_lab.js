@@ -1,4 +1,4 @@
-// Exercise 01 — WebSockets
+// Exercise 01 - WebSockets
 //
 // Docs: ../../../docs/03-expert/05-real-time-and-messaging/01-websockets.md
 //

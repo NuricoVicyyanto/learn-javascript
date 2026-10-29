@@ -154,12 +154,12 @@ Open DevTools with `F12` or `Ctrl+Shift+I` (`Cmd+Option+I` on macOS).
 
 Useful panels:
 
-- **Console** — run JavaScript and inspect values.
-- **Sources** — breakpoints, call stack, scope.
-- **Network** — requests, status codes, payloads, timing.
-- **Application** — storage, cookies, service workers.
-- **Performance** — CPU profiles, long tasks, rendering.
-- **Memory** — heap snapshots.
+- **Console** - run JavaScript and inspect values.
+- **Sources** - breakpoints, call stack, scope.
+- **Network** - requests, status codes, payloads, timing.
+- **Application** - storage, cookies, service workers.
+- **Performance** - CPU profiles, long tasks, rendering.
+- **Memory** - heap snapshots.
 
 Create `index.html` and open it in the browser:
 

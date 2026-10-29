@@ -55,7 +55,7 @@ node beginner/09-node-fundamentals/main.js
 node --test beginner/09-node-fundamentals/exercises.test.js
 ```
 
-## Mini project — Log Analyzer
+## Mini project - Log Analyzer
 
 Build a CLI that reads a log file or stdin, parses timestamp and level, and reports counts per level, the busiest minute, and the slowest request. Stream input instead of loading everything into memory.
 

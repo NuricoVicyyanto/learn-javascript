@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Callback functions and error-first style. Predict the output before running.
-2. **Change** — modify one detail in `setTimeout`, `setInterval`, and `clearInterval`. Explain the difference.
-3. **Break** — break Promisifying callback APIs on purpose. Capture the error and explain it.
-4. **Combine** — use Callback functions and error-first style and `setTimeout`, `setInterval`, and `clearInterval` in one small program.
+1. **Baseline** - reproduce the smallest working example for Callback functions and error-first style. Predict the output before running.
+2. **Change** - modify one detail in `setTimeout`, `setInterval`, and `clearInterval`. Explain the difference.
+3. **Break** - break Promisifying callback APIs on purpose. Capture the error and explain it.
+4. **Combine** - use Callback functions and error-first style and `setTimeout`, `setInterval`, and `clearInterval` in one small program.
 
 ```js
 // TODO: experiment space

@@ -1,4 +1,4 @@
-# Solutions — Tooling and TypeScript
+# Solutions - Tooling and TypeScript
 
 > **Level:** Intermediate · Write your own attempt first. A copied solution is not evidence of learning.
 

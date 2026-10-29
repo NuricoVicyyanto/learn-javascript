@@ -1,4 +1,4 @@
-// Exercise 02 — OWASP for APIs
+// Exercise 02 - OWASP for APIs
 //
 // Docs: ../../../docs/02-intermediate/08-security/02-owasp-for-apis.md
 //

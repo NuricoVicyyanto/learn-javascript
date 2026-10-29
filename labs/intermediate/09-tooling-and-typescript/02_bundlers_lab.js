@@ -1,4 +1,4 @@
-// Exercise 02 — Bundlers
+// Exercise 02 - Bundlers
 //
 // Docs: ../../../docs/02-intermediate/09-tooling-and-typescript/02-bundlers.md
 //

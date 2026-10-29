@@ -1,4 +1,4 @@
-// Exercise 02 — Hidden Classes and Inline Caches
+// Exercise 02 - Hidden Classes and Inline Caches
 //
 // Docs: ../../../docs/03-expert/01-runtime-internals/02-hidden-classes-and-inline-caches.md
 //

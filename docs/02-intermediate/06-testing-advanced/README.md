@@ -56,7 +56,7 @@ node intermediate/06-testing-advanced/main.js
 node --test intermediate/06-testing-advanced/exercises.test.js
 ```
 
-## Mini project — Test Harness for the API
+## Mini project - Test Harness for the API
 
 Build a test harness around the URL shortener or bookmark API: service tests with fakes, HTTP tests with an ephemeral server, and integration tests against a disposable database. Document the test pyramid.
 

@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Rejected promises and `.catch`. Predict the output before running.
-2. **Change** — modify one detail in `try/catch` with `await`. Explain the difference.
-3. **Break** — break Error handling at boundaries on purpose. Capture the error and explain it.
-4. **Combine** — use Rejected promises and `.catch` and `try/catch` with `await` in one small program.
+1. **Baseline** - reproduce the smallest working example for Rejected promises and `.catch`. Predict the output before running.
+2. **Change** - modify one detail in `try/catch` with `await`. Explain the difference.
+3. **Break** - break Error handling at boundaries on purpose. Capture the error and explain it.
+4. **Combine** - use Rejected promises and `.catch` and `try/catch` with `await` in one small program.
 
 ```js
 // TODO: experiment space

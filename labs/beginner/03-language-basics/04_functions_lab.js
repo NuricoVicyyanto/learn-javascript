@@ -1,4 +1,4 @@
-// Exercise 04 — Functions
+// Exercise 04 - Functions
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/04-functions.md
 //

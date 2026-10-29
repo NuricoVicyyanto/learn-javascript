@@ -1,4 +1,4 @@
-// Exercise 02 — Threat Modeling
+// Exercise 02 - Threat Modeling
 //
 // Docs: ../../../docs/03-expert/06-security/02-threat-modeling.md
 //

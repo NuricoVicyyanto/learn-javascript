@@ -1,4 +1,4 @@
-// Exercise 03 — Secrets and TLS
+// Exercise 03 - Secrets and TLS
 //
 // Docs: ../../../docs/02-intermediate/08-security/03-secrets-and-tls.md
 //

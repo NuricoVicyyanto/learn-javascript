@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Starting the app on an ephemeral port. Predict the output before running.
-2. **Change** — modify one detail in Calling it with `fetch`. Explain the difference.
-3. **Break** — break Cleaning up servers and sockets on purpose. Capture the error and explain it.
-4. **Combine** — use Starting the app on an ephemeral port and Calling it with `fetch` in one small program.
+1. **Baseline** - reproduce the smallest working example for Starting the app on an ephemeral port. Predict the output before running.
+2. **Change** - modify one detail in Calling it with `fetch`. Explain the difference.
+3. **Break** - break Cleaning up servers and sockets on purpose. Capture the error and explain it.
+4. **Combine** - use Starting the app on an ephemeral port and Calling it with `fetch` in one small program.
 
 ```js
 // TODO: experiment space

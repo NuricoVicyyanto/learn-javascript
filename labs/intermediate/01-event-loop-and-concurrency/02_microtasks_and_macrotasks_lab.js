@@ -1,4 +1,4 @@
-// Exercise 02 — Microtasks and Macrotasks
+// Exercise 02 - Microtasks and Macrotasks
 //
 // Docs: ../../../docs/02-intermediate/01-event-loop-and-concurrency/02-microtasks-and-macrotasks.md
 //

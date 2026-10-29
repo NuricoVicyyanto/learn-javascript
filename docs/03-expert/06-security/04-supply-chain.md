@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Lockfiles and deterministic installs. Predict the output before running.
-2. **Change** — modify one detail in `npm audit` and advisory databases. Explain the difference.
-3. **Break** — break Signed releases and dependency policy on purpose. Capture the error and explain it.
-4. **Combine** — use Lockfiles and deterministic installs and `npm audit` and advisory databases in one small program.
+1. **Baseline** - reproduce the smallest working example for Lockfiles and deterministic installs. Predict the output before running.
+2. **Change** - modify one detail in `npm audit` and advisory databases. Explain the difference.
+3. **Break** - break Signed releases and dependency policy on purpose. Capture the error and explain it.
+4. **Combine** - use Lockfiles and deterministic installs and `npm audit` and advisory databases in one small program.
 
 ```js
 // TODO: experiment space

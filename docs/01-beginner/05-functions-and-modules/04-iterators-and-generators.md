@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for The iterable and iterator protocols. Predict the output before running.
-2. **Change** — modify one detail in Generator functions and `yield`. Explain the difference.
-3. **Break** — break When generators are the wrong tool on purpose. Capture the error and explain it.
-4. **Combine** — use The iterable and iterator protocols and Generator functions and `yield` in one small program.
+1. **Baseline** - reproduce the smallest working example for The iterable and iterator protocols. Predict the output before running.
+2. **Change** - modify one detail in Generator functions and `yield`. Explain the difference.
+3. **Break** - break When generators are the wrong tool on purpose. Capture the error and explain it.
+4. **Combine** - use The iterable and iterator protocols and Generator functions and `yield` in one small program.
 
 ```js
 // TODO: experiment space

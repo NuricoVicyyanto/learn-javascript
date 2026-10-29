@@ -1,4 +1,4 @@
-// Exercise 04 — Lint, Format, and CI
+// Exercise 04 - Lint, Format, and CI
 //
 // Docs: ../../../docs/02-intermediate/09-tooling-and-typescript/04-lint-format-ci.md
 //

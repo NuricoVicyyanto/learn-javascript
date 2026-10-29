@@ -1,4 +1,4 @@
-# Lab 05 — Project Architecture
+# Lab 05 - Project Architecture
 
 > **Level:** Intermediate · **Module guide:** [05 Project Architecture](../../../docs/02-intermediate/05-project-architecture/README.md)
 

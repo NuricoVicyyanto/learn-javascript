@@ -1,4 +1,4 @@
-// Exercise 01 — Arrays
+// Exercise 01 - Arrays
 //
 // Docs: ../../../docs/01-beginner/04-data-structures/01-arrays.md
 //

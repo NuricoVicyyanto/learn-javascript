@@ -1,4 +1,4 @@
-# Lab 05 — Real-time and Messaging
+# Lab 05 - Real-time and Messaging
 
 > **Level:** Expert · **Module guide:** [05 Real-time and Messaging](../../../docs/03-expert/05-real-time-and-messaging/README.md)
 

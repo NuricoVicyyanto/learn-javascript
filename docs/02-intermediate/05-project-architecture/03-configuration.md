@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Environment variables and CLI flags. Predict the output before running.
-2. **Change** — modify one detail in Config objects and defaults. Explain the difference.
-3. **Break** — break Secrets and redaction on purpose. Capture the error and explain it.
-4. **Combine** — use Environment variables and CLI flags and Config objects and defaults in one small program.
+1. **Baseline** - reproduce the smallest working example for Environment variables and CLI flags. Predict the output before running.
+2. **Change** - modify one detail in Config objects and defaults. Explain the difference.
+3. **Break** - break Secrets and redaction on purpose. Capture the error and explain it.
+4. **Combine** - use Environment variables and CLI flags and Config objects and defaults in one small program.
 
 ```js
 // TODO: experiment space

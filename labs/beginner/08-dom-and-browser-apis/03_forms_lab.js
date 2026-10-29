@@ -1,4 +1,4 @@
-// Exercise 03 — Forms
+// Exercise 03 - Forms
 //
 // Docs: ../../../docs/01-beginner/08-dom-and-browser-apis/03-forms.md
 //

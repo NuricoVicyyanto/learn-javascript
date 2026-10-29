@@ -1,4 +1,4 @@
-// Exercise 03 — Maps and Sets
+// Exercise 03 - Maps and Sets
 //
 // Docs: ../../../docs/01-beginner/04-data-structures/03-maps-and-sets.md
 //

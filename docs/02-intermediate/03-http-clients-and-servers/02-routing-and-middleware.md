@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Route matching and method handling. Predict the output before running.
-2. **Change** — modify one detail in Middleware as `(req, res, next)` functions. Explain the difference.
-3. **Break** — break Order and short-circuiting on purpose. Capture the error and explain it.
-4. **Combine** — use Route matching and method handling and Middleware as `(req, res, next)` functions in one small program.
+1. **Baseline** - reproduce the smallest working example for Route matching and method handling. Predict the output before running.
+2. **Change** - modify one detail in Middleware as `(req, res, next)` functions. Explain the difference.
+3. **Break** - break Order and short-circuiting on purpose. Capture the error and explain it.
+4. **Combine** - use Route matching and method handling and Middleware as `(req, res, next)` functions in one small program.
 
 ```js
 // TODO: experiment space

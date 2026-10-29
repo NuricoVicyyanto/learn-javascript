@@ -1,4 +1,4 @@
-// Exercise 05 — Scope and Hoisting
+// Exercise 05 - Scope and Hoisting
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/05-scope-and-hoisting.md
 //

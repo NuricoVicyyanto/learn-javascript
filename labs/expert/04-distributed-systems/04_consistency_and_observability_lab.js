@@ -1,4 +1,4 @@
-// Exercise 04 — Consistency and Observability
+// Exercise 04 - Consistency and Observability
 //
 // Docs: ../../../docs/03-expert/04-distributed-systems/04-consistency-and-observability.md
 //

@@ -1,4 +1,4 @@
-// Exercise 01 — Exceptions
+// Exercise 01 - Exceptions
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-debugging/01-exceptions.md
 //

@@ -56,7 +56,7 @@ node beginner/04-data-structures/main.js
 node --test beginner/04-data-structures/exercises.test.js
 ```
 
-## Mini project — Contact Book
+## Mini project - Contact Book
 
 Build a command-line contact book backed by objects and a Map. Support add, search, update, delete, and list. Keep storage behind a small interface so it can later be replaced by a JSON file.
 

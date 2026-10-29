@@ -58,7 +58,7 @@ node beginner/03-language-basics/main.js
 node --test beginner/03-language-basics/exercises.test.js
 ```
 
-## Mini project — Command-Line Calculator
+## Mini project - Command-Line Calculator
 
 Build a calculator that parses simple expressions from the command line, supports `+ - * /`, handles division by zero, and prints a readable error for invalid input. Keep parsing and evaluation in separate functions.
 

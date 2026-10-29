@@ -1,4 +1,4 @@
-// Exercise 04 — Destructuring, Spread, and JSON
+// Exercise 04 - Destructuring, Spread, and JSON
 //
 // Docs: ../../../docs/01-beginner/04-data-structures/04-destructuring-and-json.md
 //

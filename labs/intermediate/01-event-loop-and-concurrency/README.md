@@ -1,4 +1,4 @@
-# Lab 01 — Event Loop and Concurrency
+# Lab 01 - Event Loop and Concurrency
 
 > **Level:** Intermediate · **Module guide:** [01 Event Loop and Concurrency](../../../docs/02-intermediate/01-event-loop-and-concurrency/README.md)
 

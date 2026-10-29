@@ -1,4 +1,4 @@
-# Solutions — Real-time and Messaging
+# Solutions - Real-time and Messaging
 
 > **Level:** Expert · Write your own attempt first. A copied solution is not evidence of learning.
 

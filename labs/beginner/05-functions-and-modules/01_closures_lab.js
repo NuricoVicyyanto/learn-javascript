@@ -1,4 +1,4 @@
-// Exercise 01 — Closures
+// Exercise 01 - Closures
 //
 // Docs: ../../../docs/01-beginner/05-functions-and-modules/01-closures.md
 //

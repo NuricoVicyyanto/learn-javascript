@@ -1,4 +1,4 @@
-// Exercise 01 — Call Stack and Queues
+// Exercise 01 - Call Stack and Queues
 //
 // Docs: ../../../docs/02-intermediate/01-event-loop-and-concurrency/01-call-stack-and-queues.md
 //

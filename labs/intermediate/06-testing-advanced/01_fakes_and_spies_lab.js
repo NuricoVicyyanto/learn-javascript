@@ -1,4 +1,4 @@
-// Exercise 01 — Fakes and Spies
+// Exercise 01 - Fakes and Spies
 //
 // Docs: ../../../docs/02-intermediate/06-testing-advanced/01-fakes-and-spies.md
 //

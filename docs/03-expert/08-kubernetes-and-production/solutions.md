@@ -1,4 +1,4 @@
-# Solutions — Kubernetes and Production Operations
+# Solutions - Kubernetes and Production Operations
 
 > **Level:** Expert · Write your own attempt first. A copied solution is not evidence of learning.
 

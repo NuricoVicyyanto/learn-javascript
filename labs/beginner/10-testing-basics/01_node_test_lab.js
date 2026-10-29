@@ -1,4 +1,4 @@
-// Exercise 01 — node:test
+// Exercise 01 - node:test
 //
 // Docs: ../../../docs/01-beginner/10-testing-basics/01-node-test.md
 //

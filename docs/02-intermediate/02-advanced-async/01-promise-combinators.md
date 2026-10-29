@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `Promise.all` and fail-fast behavior. Predict the output before running.
-2. **Change** — modify one detail in `Promise.allSettled` and partial results. Explain the difference.
-3. **Break** — break Aggregate errors on purpose. Capture the error and explain it.
-4. **Combine** — use `Promise.all` and fail-fast behavior and `Promise.allSettled` and partial results in one small program.
+1. **Baseline** - reproduce the smallest working example for `Promise.all` and fail-fast behavior. Predict the output before running.
+2. **Change** - modify one detail in `Promise.allSettled` and partial results. Explain the difference.
+3. **Break** - break Aggregate errors on purpose. Capture the error and explain it.
+4. **Combine** - use `Promise.all` and fail-fast behavior and `Promise.allSettled` and partial results in one small program.
 
 ```js
 // TODO: experiment space

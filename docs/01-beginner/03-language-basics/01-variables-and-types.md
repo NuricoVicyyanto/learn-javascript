@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `let`, `const`, and `var` declarations. Predict the output before running.
-2. **Change** — modify one detail in Primitive types: string, number, bigint, boolean, null, undefined, symbol. Explain the difference.
-3. **Break** — break `NaN`, `Infinity`, and `Number.MAX_SAFE_INTEGER` on purpose. Capture the error and explain it.
-4. **Combine** — use `let`, `const`, and `var` declarations and Primitive types: string, number, bigint, boolean, null, undefined, symbol in one small program.
+1. **Baseline** - reproduce the smallest working example for `let`, `const`, and `var` declarations. Predict the output before running.
+2. **Change** - modify one detail in Primitive types: string, number, bigint, boolean, null, undefined, symbol. Explain the difference.
+3. **Break** - break `NaN`, `Infinity`, and `Number.MAX_SAFE_INTEGER` on purpose. Capture the error and explain it.
+4. **Combine** - use `let`, `const`, and `var` declarations and Primitive types: string, number, bigint, boolean, null, undefined, symbol in one small program.
 
 ```js
 // TODO: experiment space

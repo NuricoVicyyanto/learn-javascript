@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `throw` and `try/catch/finally`. Predict the output before running.
-2. **Change** — modify one detail in Error propagation through callers. Explain the difference.
-3. **Break** — break Cleanup with `finally` on purpose. Capture the error and explain it.
-4. **Combine** — use `throw` and `try/catch/finally` and Error propagation through callers in one small program.
+1. **Baseline** - reproduce the smallest working example for `throw` and `try/catch/finally`. Predict the output before running.
+2. **Change** - modify one detail in Error propagation through callers. Explain the difference.
+3. **Break** - break Cleanup with `finally` on purpose. Capture the error and explain it.
+4. **Combine** - use `throw` and `try/catch/finally` and Error propagation through callers in one small program.
 
 ```js
 // TODO: experiment space

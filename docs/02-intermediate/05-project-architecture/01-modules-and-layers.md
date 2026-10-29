@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Feature-oriented vs layer-oriented folders. Predict the output before running.
-2. **Change** — modify one detail in Dependency direction and cycles. Explain the difference.
-3. **Break** — break Documenting architecture decisions on purpose. Capture the error and explain it.
-4. **Combine** — use Feature-oriented vs layer-oriented folders and Dependency direction and cycles in one small program.
+1. **Baseline** - reproduce the smallest working example for Feature-oriented vs layer-oriented folders. Predict the output before running.
+2. **Change** - modify one detail in Dependency direction and cycles. Explain the difference.
+3. **Break** - break Documenting architecture decisions on purpose. Capture the error and explain it.
+4. **Combine** - use Feature-oriented vs layer-oriented folders and Dependency direction and cycles in one small program.
 
 ```js
 // TODO: experiment space

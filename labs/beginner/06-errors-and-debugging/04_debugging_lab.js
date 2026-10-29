@@ -1,4 +1,4 @@
-// Exercise 04 — Debugging
+// Exercise 04 - Debugging
 //
 // Docs: ../../../docs/01-beginner/06-errors-and-debugging/04-debugging.md
 //

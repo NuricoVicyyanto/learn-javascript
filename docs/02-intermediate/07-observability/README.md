@@ -56,7 +56,7 @@ node intermediate/07-observability/main.js
 node --test intermediate/07-observability/exercises.test.js
 ```
 
-## Mini project — Observable Service
+## Mini project - Observable Service
 
 Take an existing API and make it operable: structured logs, RED metrics, traces across handler and database, and separate liveness/readiness endpoints. Include a small dashboard description.
 

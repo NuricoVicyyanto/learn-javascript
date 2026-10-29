@@ -55,7 +55,7 @@ node expert/05-real-time-and-messaging/main.js
 node --test expert/05-real-time-and-messaging/exercises.test.js
 ```
 
-## Mini project — Typed Event Service
+## Mini project - Typed Event Service
 
 Build a real-time service with a WebSocket or SSE endpoint and a companion event consumer. The service owns one aggregate, publishes events through an outbox, and exposes delivery status.
 

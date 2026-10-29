@@ -57,7 +57,7 @@ node intermediate/04-databases/main.js
 node --test intermediate/04-databases/exercises.test.js
 ```
 
-## Mini project — Bookmark Store
+## Mini project - Bookmark Store
 
 Build the persistence layer for a bookmark manager using PostgreSQL. Include migrations, a repository API, pagination, full-text search, and transaction tests.
 

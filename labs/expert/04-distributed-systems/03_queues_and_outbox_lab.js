@@ -1,4 +1,4 @@
-// Exercise 03 — Queues and the Outbox Pattern
+// Exercise 03 - Queues and the Outbox Pattern
 //
 // Docs: ../../../docs/03-expert/04-distributed-systems/03-queues-and-outbox.md
 //

@@ -20,17 +20,17 @@ Update this file after every study session. The module READMEs contain the detai
 
 ## Beginner
 
-- [ ] 01 — [Introduction to JavaScript](docs/01-beginner/01-introduction-to-javascript/README.md)
-- [ ] 02 — [Installation and Setup](docs/01-beginner/02-installation-and-setup/README.md)
-- [ ] 03 — [Language Basics](docs/01-beginner/03-language-basics/README.md)
-- [ ] 04 — [Data Structures](docs/01-beginner/04-data-structures/README.md)
-- [ ] 05 — [Functions and Modules](docs/01-beginner/05-functions-and-modules/README.md)
-- [ ] 06 — [Errors and Debugging](docs/01-beginner/06-errors-and-debugging/README.md)
-- [ ] 07 — [Async Basics](docs/01-beginner/07-async-basics/README.md)
-- [ ] 08 — [DOM and Browser APIs](docs/01-beginner/08-dom-and-browser-apis/README.md)
-- [ ] 09 — [Node.js Fundamentals](docs/01-beginner/09-node-fundamentals/README.md)
-- [ ] 10 — [Testing Basics](docs/01-beginner/10-testing-basics/README.md)
-- [ ] 11 — [Capstone: CLI Application](docs/01-beginner/11-capstone-cli/README.md)
+- [ ] 01 - [Introduction to JavaScript](docs/01-beginner/01-introduction-to-javascript/README.md)
+- [ ] 02 - [Installation and Setup](docs/01-beginner/02-installation-and-setup/README.md)
+- [ ] 03 - [Language Basics](docs/01-beginner/03-language-basics/README.md)
+- [ ] 04 - [Data Structures](docs/01-beginner/04-data-structures/README.md)
+- [ ] 05 - [Functions and Modules](docs/01-beginner/05-functions-and-modules/README.md)
+- [ ] 06 - [Errors and Debugging](docs/01-beginner/06-errors-and-debugging/README.md)
+- [ ] 07 - [Async Basics](docs/01-beginner/07-async-basics/README.md)
+- [ ] 08 - [DOM and Browser APIs](docs/01-beginner/08-dom-and-browser-apis/README.md)
+- [ ] 09 - [Node.js Fundamentals](docs/01-beginner/09-node-fundamentals/README.md)
+- [ ] 10 - [Testing Basics](docs/01-beginner/10-testing-basics/README.md)
+- [ ] 11 - [Capstone: CLI Application](docs/01-beginner/11-capstone-cli/README.md)
 
 **Beginner gate:** [ ] passed on ____ / ____ / ______
 
@@ -75,16 +75,16 @@ Update this file after every study session. The module READMEs contain the detai
 
 ## Intermediate
 
-- [ ] 01 — [Event Loop and Concurrency](docs/02-intermediate/01-event-loop-and-concurrency/README.md)
-- [ ] 02 — [Advanced Async Patterns](docs/02-intermediate/02-advanced-async/README.md)
-- [ ] 03 — [HTTP Clients and Servers](docs/02-intermediate/03-http-clients-and-servers/README.md)
-- [ ] 04 — [Databases](docs/02-intermediate/04-databases/README.md)
-- [ ] 05 — [Project Architecture](docs/02-intermediate/05-project-architecture/README.md)
-- [ ] 06 — [Advanced Testing](docs/02-intermediate/06-testing-advanced/README.md)
-- [ ] 07 — [Observability](docs/02-intermediate/07-observability/README.md)
-- [ ] 08 — [Security](docs/02-intermediate/08-security/README.md)
-- [ ] 09 — [Tooling and TypeScript](docs/02-intermediate/09-tooling-and-typescript/README.md)
-- [ ] 10 — [Capstone: REST API](docs/02-intermediate/10-capstone-rest-api/README.md)
+- [ ] 01 - [Event Loop and Concurrency](docs/02-intermediate/01-event-loop-and-concurrency/README.md)
+- [ ] 02 - [Advanced Async Patterns](docs/02-intermediate/02-advanced-async/README.md)
+- [ ] 03 - [HTTP Clients and Servers](docs/02-intermediate/03-http-clients-and-servers/README.md)
+- [ ] 04 - [Databases](docs/02-intermediate/04-databases/README.md)
+- [ ] 05 - [Project Architecture](docs/02-intermediate/05-project-architecture/README.md)
+- [ ] 06 - [Advanced Testing](docs/02-intermediate/06-testing-advanced/README.md)
+- [ ] 07 - [Observability](docs/02-intermediate/07-observability/README.md)
+- [ ] 08 - [Security](docs/02-intermediate/08-security/README.md)
+- [ ] 09 - [Tooling and TypeScript](docs/02-intermediate/09-tooling-and-typescript/README.md)
+- [ ] 10 - [Capstone: REST API](docs/02-intermediate/10-capstone-rest-api/README.md)
 
 **Intermediate gate:** [ ] passed on ____ / ____ / ______
 
@@ -135,15 +135,15 @@ Update this file after every study session. The module READMEs contain the detai
 
 ## Expert
 
-- [ ] 01 — [Runtime Internals](docs/03-expert/01-runtime-internals/README.md)
-- [ ] 02 — [Performance Engineering](docs/03-expert/02-performance-engineering/README.md)
-- [ ] 03 — [Advanced Concurrency](docs/03-expert/03-advanced-concurrency/README.md)
-- [ ] 04 — [Distributed Systems](docs/03-expert/04-distributed-systems/README.md)
-- [ ] 05 — [Real-time and Messaging](docs/03-expert/05-real-time-and-messaging/README.md)
-- [ ] 06 — [Security](docs/03-expert/06-security/README.md)
-- [ ] 07 — [Data at Scale](docs/03-expert/07-data-at-scale/README.md)
-- [ ] 08 — [Kubernetes and Production Operations](docs/03-expert/08-kubernetes-and-production/README.md)
-- [ ] 09 — [Capstone: Production Platform](docs/03-expert/09-capstone-platform/README.md)
+- [ ] 01 - [Runtime Internals](docs/03-expert/01-runtime-internals/README.md)
+- [ ] 02 - [Performance Engineering](docs/03-expert/02-performance-engineering/README.md)
+- [ ] 03 - [Advanced Concurrency](docs/03-expert/03-advanced-concurrency/README.md)
+- [ ] 04 - [Distributed Systems](docs/03-expert/04-distributed-systems/README.md)
+- [ ] 05 - [Real-time and Messaging](docs/03-expert/05-real-time-and-messaging/README.md)
+- [ ] 06 - [Security](docs/03-expert/06-security/README.md)
+- [ ] 07 - [Data at Scale](docs/03-expert/07-data-at-scale/README.md)
+- [ ] 08 - [Kubernetes and Production Operations](docs/03-expert/08-kubernetes-and-production/README.md)
+- [ ] 09 - [Capstone: Production Platform](docs/03-expert/09-capstone-platform/README.md)
 
 **Expert gate:** [ ] passed on ____ / ____ / ______
 

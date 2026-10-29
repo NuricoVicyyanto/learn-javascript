@@ -1,4 +1,4 @@
-// Exercise 01 — OAuth2 and OIDC
+// Exercise 01 - OAuth2 and OIDC
 //
 // Docs: ../../../docs/03-expert/06-security/01-oauth-and-oidc.md
 //

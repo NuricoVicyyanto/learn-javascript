@@ -1,4 +1,4 @@
-// Exercise 04 — Repositories
+// Exercise 04 - Repositories
 //
 // Docs: ../../../docs/02-intermediate/04-databases/04-repositories.md
 //

@@ -13,19 +13,19 @@ import { exercise03 } from "./03_npm_and_packages_lab.js";
 //
 // A skipped test is a reminder, not a passing grade.
 
-test("01 — Filesystem and Paths", { skip: "TODO: implement exercise01" }, async () => {
+test("01 - Filesystem and Paths", { skip: "TODO: implement exercise01" }, async () => {
   await exercise01();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("02 — Process, Environment, and Args", { skip: "TODO: implement exercise02" }, async () => {
+test("02 - Process, Environment, and Args", { skip: "TODO: implement exercise02" }, async () => {
   await exercise02();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("03 — npm and Packages", { skip: "TODO: implement exercise03" }, async () => {
+test("03 - npm and Packages", { skip: "TODO: implement exercise03" }, async () => {
   await exercise03();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);

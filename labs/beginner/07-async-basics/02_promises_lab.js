@@ -1,4 +1,4 @@
-// Exercise 02 — Promises
+// Exercise 02 - Promises
 //
 // Docs: ../../../docs/01-beginner/07-async-basics/02-promises.md
 //

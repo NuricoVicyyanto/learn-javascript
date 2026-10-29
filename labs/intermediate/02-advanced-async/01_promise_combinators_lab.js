@@ -1,4 +1,4 @@
-// Exercise 01 — Promise Combinators
+// Exercise 01 - Promise Combinators
 //
 // Docs: ../../../docs/02-intermediate/02-advanced-async/01-promise-combinators.md
 //

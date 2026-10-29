@@ -1,4 +1,4 @@
-# Solutions — Node.js Fundamentals
+# Solutions - Node.js Fundamentals
 
 > **Level:** Beginner · Write your own attempt first. A copied solution is not evidence of learning.
 

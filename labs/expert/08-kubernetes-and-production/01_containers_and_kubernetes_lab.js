@@ -1,4 +1,4 @@
-// Exercise 01 — Containers and Kubernetes
+// Exercise 01 - Containers and Kubernetes
 //
 // Docs: ../../../docs/03-expert/08-kubernetes-and-production/01-containers-and-kubernetes.md
 //

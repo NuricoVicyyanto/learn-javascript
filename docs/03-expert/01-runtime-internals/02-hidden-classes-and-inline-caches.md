@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Object shapes and property order. Predict the output before running.
-2. **Change** — modify one detail in Monomorphic, polymorphic, and megamorphic access. Explain the difference.
-3. **Break** — break Designing hot objects for stable shapes on purpose. Capture the error and explain it.
-4. **Combine** — use Object shapes and property order and Monomorphic, polymorphic, and megamorphic access in one small program.
+1. **Baseline** - reproduce the smallest working example for Object shapes and property order. Predict the output before running.
+2. **Change** - modify one detail in Monomorphic, polymorphic, and megamorphic access. Explain the difference.
+3. **Break** - break Designing hot objects for stable shapes on purpose. Capture the error and explain it.
+4. **Combine** - use Object shapes and property order and Monomorphic, polymorphic, and megamorphic access in one small program.
 
 ```js
 // TODO: experiment space

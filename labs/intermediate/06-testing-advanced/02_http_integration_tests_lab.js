@@ -1,4 +1,4 @@
-// Exercise 02 — HTTP Integration Tests
+// Exercise 02 - HTTP Integration Tests
 //
 // Docs: ../../../docs/02-intermediate/06-testing-advanced/02-http-integration-tests.md
 //

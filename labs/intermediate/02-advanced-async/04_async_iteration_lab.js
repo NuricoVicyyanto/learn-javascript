@@ -1,4 +1,4 @@
-// Exercise 04 — Async Iteration
+// Exercise 04 - Async Iteration
 //
 // Docs: ../../../docs/02-intermediate/02-advanced-async/04-async-iteration.md
 //

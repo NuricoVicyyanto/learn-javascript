@@ -56,7 +56,7 @@ node beginner/08-dom-and-browser-apis/main.js
 node --test beginner/08-dom-and-browser-apis/exercises.test.js
 ```
 
-## Mini project — Browser Task Board
+## Mini project - Browser Task Board
 
 Build a task board with columns, drag-free move buttons, filters, and local persistence. Use semantic HTML, event delegation, and accessible status messages.
 

@@ -1,4 +1,4 @@
-# Lab 08 — Security
+# Lab 08 - Security
 
 > **Level:** Intermediate · **Module guide:** [08 Security](../../../docs/02-intermediate/08-security/README.md)
 

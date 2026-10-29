@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for TLS termination and certificate validation. Predict the output before running.
-2. **Change** — modify one detail in mTLS between services. Explain the difference.
-3. **Break** — break Least privilege and short-lived credentials on purpose. Capture the error and explain it.
-4. **Combine** — use TLS termination and certificate validation and mTLS between services in one small program.
+1. **Baseline** - reproduce the smallest working example for TLS termination and certificate validation. Predict the output before running.
+2. **Change** - modify one detail in mTLS between services. Explain the difference.
+3. **Break** - break Least privilege and short-lived credentials on purpose. Capture the error and explain it.
+4. **Combine** - use TLS termination and certificate validation and mTLS between services in one small program.
 
 ```js
 // TODO: experiment space

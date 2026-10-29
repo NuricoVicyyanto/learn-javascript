@@ -1,4 +1,4 @@
-// Exercise 01 — DOM Manipulation
+// Exercise 01 - DOM Manipulation
 //
 // Docs: ../../../docs/01-beginner/08-dom-and-browser-apis/01-dom-manipulation.md
 //

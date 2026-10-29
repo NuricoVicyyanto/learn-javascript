@@ -1,4 +1,4 @@
-// Exercise 01 — Variables and Types
+// Exercise 01 - Variables and Types
 //
 // Docs: ../../../docs/01-beginner/03-language-basics/01-variables-and-types.md
 //

@@ -1,4 +1,4 @@
-// Exercise 02 — Routing and Middleware
+// Exercise 02 - Routing and Middleware
 //
 // Docs: ../../../docs/02-intermediate/03-http-clients-and-servers/02-routing-and-middleware.md
 //

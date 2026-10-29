@@ -58,7 +58,7 @@ node intermediate/01-event-loop-and-concurrency/main.js
 node --test intermediate/01-event-loop-and-concurrency/exercises.test.js
 ```
 
-## Mini project — Event Loop Lab
+## Mini project - Event Loop Lab
 
 Build a small server with one fast endpoint, one CPU-heavy endpoint, and one I/O endpoint. Measure latency and event-loop lag, then fix the blocking path.
 

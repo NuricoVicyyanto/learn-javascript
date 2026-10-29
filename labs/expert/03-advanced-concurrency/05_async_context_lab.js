@@ -1,4 +1,4 @@
-// Exercise 05 — Async Context
+// Exercise 05 - Async Context
 //
 // Docs: ../../../docs/03-expert/03-advanced-concurrency/05-async-context.md
 //

@@ -1,4 +1,4 @@
-// Exercise 03 — Timers
+// Exercise 03 - Timers
 //
 // Docs: ../../../docs/02-intermediate/01-event-loop-and-concurrency/03-timers.md
 //

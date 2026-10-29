@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for The WebSocket handshake and lifecycle. Predict the output before running.
-2. **Change** — modify one detail in Sending, receiving, and message framing. Explain the difference.
-3. **Break** — break Backpressure and slow consumers on purpose. Capture the error and explain it.
-4. **Combine** — use The WebSocket handshake and lifecycle and Sending, receiving, and message framing in one small program.
+1. **Baseline** - reproduce the smallest working example for The WebSocket handshake and lifecycle. Predict the output before running.
+2. **Change** - modify one detail in Sending, receiving, and message framing. Explain the difference.
+3. **Break** - break Backpressure and slow consumers on purpose. Capture the error and explain it.
+4. **Combine** - use The WebSocket handshake and lifecycle and Sending, receiving, and message framing in one small program.
 
 ```js
 // TODO: experiment space

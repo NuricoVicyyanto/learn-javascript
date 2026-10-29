@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for `Map` vs plain object. Predict the output before running.
-2. **Change** — modify one detail in `Set` for uniqueness. Explain the difference.
-3. **Break** — break Converting between arrays and sets on purpose. Capture the error and explain it.
-4. **Combine** — use `Map` vs plain object and `Set` for uniqueness in one small program.
+1. **Baseline** - reproduce the smallest working example for `Map` vs plain object. Predict the output before running.
+2. **Change** - modify one detail in `Set` for uniqueness. Explain the difference.
+3. **Break** - break Converting between arrays and sets on purpose. Capture the error and explain it.
+4. **Combine** - use `Map` vs plain object and `Set` for uniqueness in one small program.
 
 ```js
 // TODO: experiment space

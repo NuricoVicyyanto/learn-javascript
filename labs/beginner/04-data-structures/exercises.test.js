@@ -14,25 +14,25 @@ import { exercise04 } from "./04_destructuring_and_json_lab.js";
 //
 // A skipped test is a reminder, not a passing grade.
 
-test("01 — Arrays", { skip: "TODO: implement exercise01" }, async () => {
+test("01 - Arrays", { skip: "TODO: implement exercise01" }, async () => {
   await exercise01();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("02 — Objects", { skip: "TODO: implement exercise02" }, async () => {
+test("02 - Objects", { skip: "TODO: implement exercise02" }, async () => {
   await exercise02();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("03 — Maps and Sets", { skip: "TODO: implement exercise03" }, async () => {
+test("03 - Maps and Sets", { skip: "TODO: implement exercise03" }, async () => {
   await exercise03();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);
 });
 
-test("04 — Destructuring, Spread, and JSON", { skip: "TODO: implement exercise04" }, async () => {
+test("04 - Destructuring, Spread, and JSON", { skip: "TODO: implement exercise04" }, async () => {
   await exercise04();
   // TODO: add assertions for the behavior you implemented.
   assert.ok(true);

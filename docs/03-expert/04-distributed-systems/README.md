@@ -57,7 +57,7 @@ node expert/04-distributed-systems/main.js
 node --test expert/04-distributed-systems/exercises.test.js
 ```
 
-## Mini project — Reliable Webhook Sender
+## Mini project - Reliable Webhook Sender
 
 Build a service that accepts events and delivers them to subscriber URLs with retries, idempotency, dead-letter handling, and visible delivery status. Assume the receiver may be slow, down, or duplicate deliveries.
 

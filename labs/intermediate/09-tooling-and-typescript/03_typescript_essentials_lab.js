@@ -1,4 +1,4 @@
-// Exercise 03 — TypeScript Essentials
+// Exercise 03 - TypeScript Essentials
 //
 // Docs: ../../../docs/02-intermediate/09-tooling-and-typescript/03-typescript-essentials.md
 //

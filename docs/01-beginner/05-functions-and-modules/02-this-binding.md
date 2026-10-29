@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Default binding and strict mode. Predict the output before running.
-2. **Change** — modify one detail in Implicit binding through an object. Explain the difference.
-3. **Break** — break Arrow functions and lexical `this` on purpose. Capture the error and explain it.
-4. **Combine** — use Default binding and strict mode and Implicit binding through an object in one small program.
+1. **Baseline** - reproduce the smallest working example for Default binding and strict mode. Predict the output before running.
+2. **Change** - modify one detail in Implicit binding through an object. Explain the difference.
+3. **Break** - break Arrow functions and lexical `this` on purpose. Capture the error and explain it.
+4. **Combine** - use Default binding and strict mode and Implicit binding through an object in one small program.
 
 ```js
 // TODO: experiment space

@@ -1,4 +1,4 @@
-// Exercise 04 — Supply Chain Security
+// Exercise 04 - Supply Chain Security
 //
 // Docs: ../../../docs/02-intermediate/08-security/04-supply-chain-security.md
 //

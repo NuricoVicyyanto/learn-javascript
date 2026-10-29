@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Object and array destructuring. Predict the output before running.
-2. **Change** — modify one detail in Default values and renaming. Explain the difference.
-3. **Break** — break `JSON.stringify` and `JSON.parse` edge cases on purpose. Capture the error and explain it.
-4. **Combine** — use Object and array destructuring and Default values and renaming in one small program.
+1. **Baseline** - reproduce the smallest working example for Object and array destructuring. Predict the output before running.
+2. **Change** - modify one detail in Default values and renaming. Explain the difference.
+3. **Break** - break `JSON.stringify` and `JSON.parse` edge cases on purpose. Capture the error and explain it.
+4. **Combine** - use Object and array destructuring and Default values and renaming in one small program.
 
 ```js
 // TODO: experiment space

@@ -56,7 +56,7 @@ node intermediate/09-tooling-and-typescript/main.js
 node --test intermediate/09-tooling-and-typescript/exercises.test.js
 ```
 
-## Mini project — Developer Experience Upgrade
+## Mini project - Developer Experience Upgrade
 
 Take an existing project and add scripts, linting, formatting, a bundler, and a CI pipeline. Then migrate one module to TypeScript and document the cost and benefit.
 

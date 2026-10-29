@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for CPU-bound vs I/O-bound work. Predict the output before running.
-2. **Change** — modify one detail in Synchronous APIs on request paths. Explain the difference.
-3. **Break** — break Event-loop delay metrics on purpose. Capture the error and explain it.
-4. **Combine** — use CPU-bound vs I/O-bound work and Synchronous APIs on request paths in one small program.
+1. **Baseline** - reproduce the smallest working example for CPU-bound vs I/O-bound work. Predict the output before running.
+2. **Change** - modify one detail in Synchronous APIs on request paths. Explain the difference.
+3. **Break** - break Event-loop delay metrics on purpose. Capture the error and explain it.
+4. **Combine** - use CPU-bound vs I/O-bound work and Synchronous APIs on request paths in one small program.
 
 ```js
 // TODO: experiment space

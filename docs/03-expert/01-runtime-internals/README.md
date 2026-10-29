@@ -57,7 +57,7 @@ node expert/01-runtime-internals/main.js
 node --test expert/01-runtime-internals/exercises.test.js
 ```
 
-## Mini project — Engine Lab
+## Mini project - Engine Lab
 
 Create a reproducible lab with experiments for shapes, inline caches, deoptimization, and GC. Each experiment needs a hypothesis, measurement, result, and explanation.
 

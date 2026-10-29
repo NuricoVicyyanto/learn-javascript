@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Form submission and `FormData`. Predict the output before running.
-2. **Change** — modify one detail in Built-in constraint validation. Explain the difference.
-3. **Break** — break Resetting and disabling during submit on purpose. Capture the error and explain it.
-4. **Combine** — use Form submission and `FormData` and Built-in constraint validation in one small program.
+1. **Baseline** - reproduce the smallest working example for Form submission and `FormData`. Predict the output before running.
+2. **Change** - modify one detail in Built-in constraint validation. Explain the difference.
+3. **Break** - break Resetting and disabling during submit on purpose. Capture the error and explain it.
+4. **Combine** - use Form submission and `FormData` and Built-in constraint validation in one small program.
 
 ```js
 // TODO: experiment space

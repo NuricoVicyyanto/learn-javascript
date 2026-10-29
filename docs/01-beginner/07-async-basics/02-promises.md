@@ -89,10 +89,10 @@ Work through each idea. Replace every prompt with your own explanation and a run
 
 ## Code experiments
 
-1. **Baseline** — reproduce the smallest working example for Promise states and settlement. Predict the output before running.
-2. **Change** — modify one detail in `.then`, `.catch`, and `.finally`. Explain the difference.
-3. **Break** — break Common anti-patterns with `new Promise` on purpose. Capture the error and explain it.
-4. **Combine** — use Promise states and settlement and `.then`, `.catch`, and `.finally` in one small program.
+1. **Baseline** - reproduce the smallest working example for Promise states and settlement. Predict the output before running.
+2. **Change** - modify one detail in `.then`, `.catch`, and `.finally`. Explain the difference.
+3. **Break** - break Common anti-patterns with `new Promise` on purpose. Capture the error and explain it.
+4. **Combine** - use Promise states and settlement and `.then`, `.catch`, and `.finally` in one small program.
 
 ```js
 // TODO: experiment space

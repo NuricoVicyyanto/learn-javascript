@@ -1,4 +1,4 @@
-// Exercise 02 — Server-Sent Events
+// Exercise 02 - Server-Sent Events
 //
 // Docs: ../../../docs/03-expert/05-real-time-and-messaging/02-server-sent-events.md
 //
