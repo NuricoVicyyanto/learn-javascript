@@ -1,0 +1,16 @@
+{
+  "name": "learn-javascript-labs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hands-on labs for the Learn JavaScript curriculum",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch",
+    "check": "node scripts/check-syntax.js",
+    "coverage": "node --test --experimental-test-coverage"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
